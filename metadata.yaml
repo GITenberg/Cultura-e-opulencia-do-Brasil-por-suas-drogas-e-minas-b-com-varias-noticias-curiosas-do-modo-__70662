@@ -1,5 +1,8 @@
 _repo: Cultura-e-opulencia-do-Brasil-por-suas-drogas-e-minas-b-com-varias-noticias-curiosas-do-modo-__70662
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70662-h/images/cover.jpg
 creator:
   author:
     agent_name: Antonil, André João
@@ -17,6 +20,8 @@ creator:
     - https://pt.wikipedia.org/wiki/Andr%C3%A9_Jo%C3%A3o_Antonil
     - https://it.wikipedia.org/wiki/Giovanni_Antonio_Andreoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70662#Cultura-e-opulencia-do-Brasil-por-suas-drogas-e-minas-b-com-varias-noticias-curiosas-do-modo-_
 gutenberg_issued: '2023-04-28'
 identifiers:
   gutenberg: '70662'
